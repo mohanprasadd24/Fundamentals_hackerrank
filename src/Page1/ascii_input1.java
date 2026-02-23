@@ -1,3 +1,5 @@
+package Page1;
+
 import java.util.*;
 public class ascii_input1 {
     public static void main(String[] args) {
